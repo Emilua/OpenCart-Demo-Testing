@@ -1,6 +1,6 @@
 QA Bug Reports Pet Project
 
-Welcome to the QA Bug Reports Pet Project - a collection of structured and well-documented bug reports created while practicing software testing skills. The project focuses on identifying UI and functional issues on the demo website opencart.abstracta.us, using industry‑standard formats suitable for Jira.
+Welcome to the QA Bug Reports Project - a collection of structured and well-documented bug reports created while practicing software testing skills. The project focuses on identifying UI and functional issues on the demo website opencart.abstracta.us, using industry‑standard formats suitable for Jira.
 
 Project Goal
 
